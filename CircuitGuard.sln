@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitGuard", "CircuitGuard\CircuitGuard.csproj", "{4994B60B-8BEF-452D-AFA4-5D994C1B5C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitGuard.Tests", "CircuitGuard.Tests\CircuitGuard.Tests.csproj", "{30C0D6FB-C44B-4A89-90A2-471EA2BC5533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4994B60B-8BEF-452D-AFA4-5D994C1B5C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4994B60B-8BEF-452D-AFA4-5D994C1B5C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4994B60B-8BEF-452D-AFA4-5D994C1B5C39}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4994B60B-8BEF-452D-AFA4-5D994C1B5C39}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{30C0D6FB-C44B-4A89-90A2-471EA2BC5533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C0D6FB-C44B-4A89-90A2-471EA2BC5533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C0D6FB-C44B-4A89-90A2-471EA2BC5533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C0D6FB-C44B-4A89-90A2-471EA2BC5533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
